@@ -30,7 +30,7 @@ A powerful tool to analyze GitHub repository contributions including commits, pu
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/github-report-generator.git
+   git clone https://github.com/Gisellev14/report-generator.git
    cd github-report-generator
    ```
 
