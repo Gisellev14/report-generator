@@ -1,0 +1,22 @@
+---
+# Initiative patterns for GitHub report generator
+# Each pattern is a regular expression that matches branch names
+# Format: initiative_name: pattern
+
+Features: '^feature/|^feat/'
+Bug Fixes: '^fix/|^bugfix/|^hotfix/'
+Documentation: '^docs/|^documentation/'
+Testing: '^test/|^testing/'
+Refactoring: '^refactor/'
+Dependencies: '^deps/|^dependencies/'
+CI/CD: '^ci/|^cd/'
+Performance: '^perf/'
+Security: '^security/'
+UI/UX: '^ui/|^ux/'
+Analytics: '^analytics/'
+API: '^api/'
+Infrastructure: '^infra/'
+Configuration: '^config/'
+Tooling: '^tools/|^tooling/'
+Maintenance: '^chore/|^maint/'
+Experiments: '^exp/|^experimental/'
