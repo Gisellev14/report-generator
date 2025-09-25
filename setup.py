@@ -4,14 +4,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="github-report-generator",
+    name="eport-generator",
     version="0.1.0",
     author="Giselle Penaloza",
     author_email="gisellep89@gmail.com",
     description="GitHub Repository Contribution Report Generator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Gisellev14/github-report-generator",
+    url="https://github.com/Gisellev14/report-generator",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
